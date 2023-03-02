@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+.content{
+    color: wheat !important;
+}
+
+.sub{
+    color: wheat !important;
+}
+
+.disaster-percentage{
+    color: white !important;
+    text-align: center;
+
+    background-color: #ea4e2cc4;
+    padding: 15px;
+    width: 450px;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px #00000033;
+    cursor: pointer;
+    font-weight: 500;
+    align-items: center;
+    overflow: hidden;
+
+    position: relative;
+    left: 50%;
+    margin-left: -225px;;
+}
